@@ -24,3 +24,9 @@ The project was implemented from **14 July 2026** to **20 July 2026**. <br>
 The project was completed within **7 days**.
 
 ---
+<html>
+<h2 style="text_align=centre"> This project is in progress. </h2>
+<p align="center">
+  <img src="Github Banner.gif" width="100%" alt="Alt Text">
+</p>
+</html>
