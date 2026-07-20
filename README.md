@@ -4,11 +4,7 @@
 ## Project Overview
 ### Scenario
 
-As a junior data analyst on Cyclistic’s marketing team, I was tasked with analyzing historical bike-trip data to **identify how annual members and casual riders use Cyclistic bikes differently**. Cyclistic, a Chicago-based bike-share company, aims to increase the number of annual memberships because members generate higher long-term profitability than casual riders.
-
-My analysis focused on comparing riding behavior between the two customer groups by examining trip duration, ride frequency, travel patterns, and usage trends. The insights from this analysis were intended to support the marketing team in developing data-driven strategies to encourage casual riders to become annual members.
-
-The project followed the complete data analysis process, including data collection, cleaning, transformation, exploratory analysis, and visualization. The final deliverables included key findings, supporting visualizations, and actionable recommendations to help Cyclistic achieve its business objective of growing annual memberships.
+You are a junior data analyst working on the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compeling data insights and professional data visualizations. 
 
 ### Teams
 
