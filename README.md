@@ -19,9 +19,9 @@ The project followed the complete data analysis process, including data collecti
 | **Cyclistic marketing analytics team** | A team of data analysts who are responsible for colecting, analyzing, and reporting data that helps guide Cyclistic marketing strategy. (My team) |
 | **Cyclistic executive team** | The notoriously detail-oriented executive team will decide whether to approve the recommended marketing program. |
 
-### Project Duration
+<!-- ### Project Duration
 The project was implemented from **14 July 2026** to **20 July 2026**. <br>
-The project was completed within **7 days**.
+The project was completed within **7 days**. -->
 
 ---
 
