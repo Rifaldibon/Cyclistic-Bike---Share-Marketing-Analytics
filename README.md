@@ -28,10 +28,10 @@ The project was completed within **7 days**. -->
 <br>
 <h3 align="center"> This project still in progress. </h3>
 <p align="center">
-  <img src="reporting.gif" width="15%" alt="Alt Text">
+  <img src="assets/reporting.gif" width="15%" alt="Alt Text">
 </p>
 <p align="center">
-  <img src="progress.gif" width="25%" alt="Alt Text">
+  <img src="assets/progress.gif" width="25%" alt="Alt Text">
 </p>
 </br>
 
