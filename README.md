@@ -25,8 +25,8 @@ The project was completed within **7 days**.
 
 ---
 <html>
-<h2 style="text_align=centre"> This project is in progress. </h2>
+<h2 style="text_align=centre"> This project still in progress. </h2>
 <p align="center">
-  <img src="Github Banner.gif" width="100%" alt="Alt Text">
+  <img src="load.gif" width="10%" alt="Alt Text">
 </p>
 </html>
