@@ -15,7 +15,7 @@ To design a data-driven marketing strategy aimed at **converting casual riders i
 To secure executive approval, our arguments must rely heavily on empirical data. Here are the three pillars of behavioral differences discovered in our analysis:
 
 ### 📈 Insight 1: Utilitarian Commuters vs. Leisure Explorers (Temporal Behavior)
-* **The Data:** Annual Members peak heavily on **Tuesdays (584,595 trips)** and maintain high, stable volume Monday through Thursday, dropping drastically on weekends. Casual riders show the exact opposite trend—their usage is low during the workweek but spikes **3x higher on Saturday (361,154 trips)** compared to Monday.
+* **The Data:** Annual Members peak heavily on **Tuesdays (584,595 trips)** and maintain high, stable volume Monday through Thursday, dropping drastically on weekends. Casual riders show the exact opposite trend, their usage is low during the workweek but spikes **3x higher on Saturday (361,154 trips)** compared to Monday.
 * **Executive Takeaway:** Members use Cyclistic out of **necessity** (daily work/school commuting), while Casuals use it for **leisure and lifestyle** (weekend recreation).
 
 ### 🗺️ Insight 2: Corporate Transit Hubs vs. Waterfront Tourism (Spatial Behavior)
